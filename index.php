@@ -1,5 +1,4 @@
 <?php
-define('TOKEN', '1134625090:AAEBq85oUxMTpt0eEuCv63DEOjBNnPtWD6k');
 define('BASE_URL', 'https://api.telegram.org/bot' . TOKEN . '/');
 define('FILE_URL', "https://api.telegram.org/file/bot" . TOKEN . "/");
 define('LOCATION_URL', 'https://ctc.pp.ua/genie/');
